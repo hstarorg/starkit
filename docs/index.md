@@ -1,22 +1,26 @@
 ---
 hero:
-  title: library
+  title: Starkit
   description: Make your Starknet login experience feel right at home on your website.
   actions:
-    - text: Hello
+    - text: Get Started
       link: /
-    - text: World
+    - text: APIs
       link: /
 features:
-  - title: Hello
+  - title: Easy Installation
     emoji: 💎
     description: Put hello description here
-  - title: World
+  - title: Light and Dark Mode
     emoji: 🌈
     description: Put world description here
-  - title: '!'
+  - title: 'Built-in Themes'
     emoji: 🚀
     description: Put ! description here
 ---
+<style>
+  .dumi-default-features-item{
+    text-align: center;
+  }
+</style>
 
-starkit
